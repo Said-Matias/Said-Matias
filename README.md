@@ -45,6 +45,8 @@ Aprender y compartir conocimientos en programacion y tecnologias
 
 [def]: https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
