@@ -1,15 +1,6 @@
-
-# Said-Mati
-
-
-
-<<<<<<< HEAD
-## Encabezados
-
-Deportes
-
 # Bienvenidos
 
+Said Matias.
 ![deportiva](https://github.com/user-attachments/assets/e135fba2-7ce5-4837-b659-3734866cef10)
 
 
