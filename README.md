@@ -1,6 +1,6 @@
 
 # Said-Mati
-creacion-repositorio
+
 ![Banner](https://github.com/user-attachments/assets/38b87a90-3502-43a0-9ebc-9302832afec4)
 >>>>>>> 8d419c0e0947eab0150e46d48949916354ad1acf
 
@@ -11,8 +11,9 @@ creacion-repositorio
 
 # Bienvenidos
 
+![deportiva](https://github.com/user-attachments/assets/e135fba2-7ce5-4837-b659-3734866cef10)
 
-![agregar imagen ](deportiva.jpg)
+
 
 <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
 
