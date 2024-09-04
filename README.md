@@ -1,8 +1,7 @@
 
 # Said-Mati
 
-![Banner](https://github.com/user-attachments/assets/38b87a90-3502-43a0-9ebc-9302832afec4)
->>>>>>> 8d419c0e0947eab0150e46d48949916354ad1acf
+
 
 <<<<<<< HEAD
 ## Encabezados
@@ -58,3 +57,6 @@ Aprender y compartir conocimientos en programacion y tecnologias
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
+
+![Banner](https://github.com/user-attachments/assets/38b87a90-3502-43a0-9ebc-9302832afec4)
+>>>>>>> 8d419c0e0947eab0150e46d48949916354ad1acf
