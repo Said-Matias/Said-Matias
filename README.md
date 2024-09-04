@@ -1,11 +1,14 @@
 # Bienvenidos
 
-Said Matias.
+
 ![deportiva](https://github.com/user-attachments/assets/e135fba2-7ce5-4837-b659-3734866cef10)
 
 
 
 <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+
+
+# Conocimientos
 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
